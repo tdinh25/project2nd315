@@ -13,7 +13,7 @@ SoccerField:[
   hasParking:false,
   FieldMap:"https:https://maps.apple.com/?address=6560%20Braddock%20Rd,%20Alexandria,%20VA%2022312,%20United%20States&auid=16795249109334400036&ll=38.818462,-77.168709&lsp=9902&q=Thomas%20Jefferson%20High%20School%20for%20Science%20and%20Technology&t=m",
   FieldWebsite:"https://tjathletics.org/teams/3854608/girls/soccer/varsity/schedule",
-  FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/thomasJefferson.jpg"
+  FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/main/thomasJefferson.jpg"
 },
 {
   FieldName: "Justice HS",
@@ -28,7 +28,7 @@ SoccerField:[
   hasParking:true,
   FieldMap:"https://maps.apple.com/?address=3301%20Peace%20Valley%20Ln,%20Falls%20Church,%20VA%20%2022044,%20United%20States&auid=15742062496136695139&ll=38.856482,-77.149376&lsp=9902&q=Justice%20High%20School&t=m",
   FieldWebsite:"https://justicehssports.com/teams/3605580/soccer/junior%20varsity/schedule",
-FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/justice.jpg"
+FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/main/justice.jpg"
 },
 {
   FieldName:"Falls Church HS",
@@ -43,7 +43,7 @@ FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/ju
   hasParking:false,
   FieldMap:"https://maps.apple.com/?address=7521%20Jaguar%20Trail,%20Falls%20Church,%20VA%2022042,%20United%20States&auid=8147261475488068280&ll=38.861985,-77.206525&lsp=9902&q=Falls%20Church%20High%20School&t=m",
   FieldWebsite:"https://fcjagsathletics.org/teams/3520210/boys/soccer/varsity/schedule",
-  FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/fallschurch.jpg"
+  FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/main/fallschurch.jpg"
 },
 {
   FieldName:"Annandale HS",
@@ -58,7 +58,7 @@ FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/ju
   hasParking:true,
   FieldMap:"https://maps.apple.com/?address=4700%20Medford%20Dr,%20Annandale,%20VA%20%2022003,%20United%20States&auid=4511719620975474658&ll=38.821889,-77.208148&lsp=9902&q=Annandale%20High%20School&t=m",
   FieldWebsite:"https://annandaleatoms.net/teams/3566212/boys/soccer/varsity/schedule",
-  FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/annandale.jpg"
+  FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/main/annandale.jpg"
 },
 {
   FieldName:"Patriot Park",
@@ -73,7 +73,7 @@ FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/ju
   hasParking:false,
   FieldMap:"https://maps.apple.com/?address=12111%20Braddock%20Rd,%20Fairfax,%20VA%20%2022030,%20United%20States&auid=5430115008483307345&ll=38.829048,-77.363853&lsp=9902&q=Patriot%20Park&t=m",
   FieldWebsite:"https://www.fairfaxcounty.gov/parks/patriot-park-north",
-  FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/patriotPark.jpg"
+  FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/main/patriotPark.jpg"
 },
 {
   FieldName: "Mason District Park",
@@ -88,7 +88,7 @@ FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/ju
   hasParking:true,
   FieldMap:"https://maps.apple.com/?address=6621%20Columbia%20Pike,%20Annandale,%20VA%20%2022003,%20United%20States&auid=9515640737227704265&ll=38.832387,-77.173848&lsp=9902&q=Mason%20District%20Park&t=m",
   FieldWebsite:"https://www.fairfaxcounty.gov/parks/mason-district",
-  FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/mason.jpg"
+  FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/main/mason.jpg"
 },
 ]
 }
