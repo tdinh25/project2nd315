@@ -28,7 +28,7 @@ SoccerField:[
   hasParking:true,
   FieldMap:"https://maps.apple.com/?address=3301%20Peace%20Valley%20Ln,%20Falls%20Church,%20VA%20%2022044,%20United%20States&auid=15742062496136695139&ll=38.856482,-77.149376&lsp=9902&q=Justice%20High%20School&t=m",
   FieldWebsite:"https://justicehssports.com/teams/3605580/soccer/junior%20varsity/schedule",
-FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/thomasJefferson.jpg"
+FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/justice.jpg"
 },
 {
   FieldName:"Falls Church HS",
@@ -38,12 +38,12 @@ FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/th
   FieldSize: "8v8",
   FieldQuality:"Average",
   hasLights:true,
-  levelLight:
-  hasRestroom:
-  hasParking:
-  FieldMap:
-  FieldWebsite:
-  FieldImage:
+  levelLight:"Illuminating",
+  hasRestroom:false,
+  hasParking:false,
+  FieldMap:"https://maps.apple.com/?address=7521%20Jaguar%20Trail,%20Falls%20Church,%20VA%2022042,%20United%20States&auid=8147261475488068280&ll=38.861985,-77.206525&lsp=9902&q=Falls%20Church%20High%20School&t=m",
+  FieldWebsite:"https://fcjagsathletics.org/teams/3520210/boys/soccer/varsity/schedule",
+  FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/thomasJefferson.jpg"
 },
 {
   FieldName:
