@@ -43,52 +43,52 @@ FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/ju
   hasParking:false,
   FieldMap:"https://maps.apple.com/?address=7521%20Jaguar%20Trail,%20Falls%20Church,%20VA%2022042,%20United%20States&auid=8147261475488068280&ll=38.861985,-77.206525&lsp=9902&q=Falls%20Church%20High%20School&t=m",
   FieldWebsite:"https://fcjagsathletics.org/teams/3520210/boys/soccer/varsity/schedule",
-  FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/thomasJefferson.jpg"
+  FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/fallschurch.jpg"
 },
 {
-  FieldName:
-  FieldAddress:
-  FieldDescription:
-  FieldType:
-  FieldSize:
-  FieldQuality:
-  hasLights:
-  levelLight:
-  hasRestroom:
-  hasParking:
-  FieldMap:
-  FieldWebsite:
-  FieldImage:
+  FieldName:"Annandale HS",
+  FieldAddress:"4700 Medford Dr, Annandale, VA 22003",
+  FieldDescription:"Annandale High School Soccer Field in Annandale, Virginia, is a well-maintained field that supports student and community soccer events. Its synthetic turf surface and precise field markings provide an ideal setting for both practice sessions and competitive matches. The field offers bleacher seating for spectators, with nearby parking and restrooms for added convenience. Located on the high school campus, it serves as a lively spot for school sports and community gatherings.",
+  FieldType:"Natural",
+  FieldSize:"8v8",
+  FieldQuality:"Excellent",
+  hasLights:true,
+  levelLight:"Illuminating",
+  hasRestroom:false,
+  hasParking:true,
+  FieldMap:"https://maps.apple.com/?address=4700%20Medford%20Dr,%20Annandale,%20VA%20%2022003,%20United%20States&auid=4511719620975474658&ll=38.821889,-77.208148&lsp=9902&q=Annandale%20High%20School&t=m",
+  FieldWebsite:"https://annandaleatoms.net/teams/3566212/boys/soccer/varsity/schedule",
+  FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/annandale.jpg"
 },
 {
-  FieldName:
-  FieldAddress:
-  FieldDescription:
-  FieldType:
-  FieldSize:
-  FieldQuality:
-  hasLights:
-  levelLight:
-  hasRestroom:
-  hasParking:
-  FieldMap:
-  FieldWebsite:
-  FieldImage:
+  FieldName:"Patriot Park",
+  FieldAddress:"12111 Braddock Rd, Fairfax, VA 22030",
+  FieldDescription:"Patriot Park Soccer Field in Fairfax, Virginia, is a top-quality facility with multiple fields that cater to players of all skill levels. The fields feature synthetic turf and clear, professional markings, ideal for competitive matches and recreational games alike. Amenities include ample parking, shaded seating areas for spectators, and nearby restroom facilities, making it convenient for families and teams. Nestled within the larger Patriot Park complex, these fields are popular for league play, tournaments, and community events.",
+  FieldType:"Hybrid",
+  FieldSize:"5v5",
+  FieldQuality:"Old",
+  hasLights:true,
+  levelLight:"Subdued",
+  hasRestroom:true,
+  hasParking:false,
+  FieldMap:"https://maps.apple.com/?address=12111%20Braddock%20Rd,%20Fairfax,%20VA%20%2022030,%20United%20States&auid=5430115008483307345&ll=38.829048,-77.363853&lsp=9902&q=Patriot%20Park&t=m",
+  FieldWebsite:"https://www.fairfaxcounty.gov/parks/patriot-park-north",
+  FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/patriotPark.jpg"
 },
 {
-  FieldName:
-  FieldAddress:
-  FieldDescription:
-  FieldType:
-  FieldSize:
-  FieldQuality:
-  hasLights:
-  levelLight:
-  hasRestroom:
-  hasParking:
-  FieldMap:
-  FieldWebsite:
-  FieldImage:
+  FieldName: "Mason District Park",
+  FieldAddress:"6621 Columbia Pike, Annandale, VA 22003",
+  FieldDescription:"Mason District Park Soccer Field in Annandale, Virginia, is a well-maintained, multipurpose field surrounded by scenic trees. It features a large, flat playing surface with clear markings, ideal for both casual games and organized matches. Nearby facilities include benches, ample parking, restrooms, and shaded areas for spectators. The park's peaceful environment and convenient location make it a popular spot for soccer players of all ages",
+  FieldType:"Hybrid",
+  FieldSize: "11v11",
+  FieldQuality:"Good",
+  hasLights: false,
+  levelLight:"No",
+  hasRestroom:true,
+  hasParking:true,
+  FieldMap:"https://maps.apple.com/?address=6621%20Columbia%20Pike,%20Annandale,%20VA%20%2022003,%20United%20States&auid=9515640737227704265&ll=38.832387,-77.173848&lsp=9902&q=Mason%20District%20Park&t=m",
+  FieldWebsite:"https://www.fairfaxcounty.gov/parks/mason-district",
+  FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/mason.jpg"
 },
 ]
 }
