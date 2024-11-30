@@ -1,43 +1,43 @@
 {
 SoccerField:[
 {
-  FieldName:"Thomas Jefferson HS"
-  FieldAddress:"6560 Braddock Rd, Alexandria, VA 22312"
-  FieldDescription:"The Thomas Jefferson High School Soccer Field in Alexandria, Virginia, is a spacious, well-kept field primarily used by students and local teams. With synthetic turf and bright field markings, it provides an excellent playing surface for competitive matches. The field is complemented by bleacher seating for spectators, as well as nearby parking and restroom facilities. Located on the high school’s campus, it serves as a hub for athletic events and community soccer games alike."
-  FieldType:"Artifical Turf"
-  FieldSize:"11v11"
-  FieldQuality:"Good"
-  hasLights: true
-  levelLight:"Dim"
-  hasRestroom:true
-  hasParking:false
-  FieldMap:"https:https://maps.apple.com/?address=6560%20Braddock%20Rd,%20Alexandria,%20VA%2022312,%20United%20States&auid=16795249109334400036&ll=38.818462,-77.168709&lsp=9902&q=Thomas%20Jefferson%20High%20School%20for%20Science%20and%20Technology&t=m"
-  FieldWebsite:"https://tjathletics.org/teams/3854608/girls/soccer/varsity/schedule"
+  FieldName:"Thomas Jefferson HS",
+  FieldAddress:"6560 Braddock Rd, Alexandria, VA 22312",
+  FieldDescription:"The Thomas Jefferson High School Soccer Field in Alexandria, Virginia, is a spacious, well-kept field primarily used by students and local teams. With synthetic turf and bright field markings, it provides an excellent playing surface for competitive matches. The field is complemented by bleacher seating for spectators, as well as nearby parking and restroom facilities. Located on the high school’s campus, it serves as a hub for athletic events and community soccer games alike.",
+  FieldType:"Artifical Turf",
+  FieldSize:"11v11",
+  FieldQuality:"Good",
+  hasLights: true,
+  levelLight:"Dim",
+  hasRestroom:true,
+  hasParking:false,
+  FieldMap:"https:https://maps.apple.com/?address=6560%20Braddock%20Rd,%20Alexandria,%20VA%2022312,%20United%20States&auid=16795249109334400036&ll=38.818462,-77.168709&lsp=9902&q=Thomas%20Jefferson%20High%20School%20for%20Science%20and%20Technology&t=m",
+  FieldWebsite:"https://tjathletics.org/teams/3854608/girls/soccer/varsity/schedule",
   FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/thomasJefferson.jpg"
 },
 {
-  FieldName:
-  FieldAddress:
-  FieldDescription:
-  FieldType:
-  FieldSize:
-  FieldQuality:
-  hasLights:
-  levelLight:
-  hasRestroom:
-  hasParking:
-  FieldMap:
-  FieldWebsite:
-  FieldImage:
+  FieldName: "Justice HS",
+  FieldAddress:"3301 Peace Valley Ln, Falls Church, VA 22044",
+  FieldDescription:"Justice High School Soccer Field in Falls Church, Virginia, is a versatile, well-maintained field utilized by students and local sports leagues. It features a durable synthetic turf surface with vibrant markings, suitable for both practices and competitive games. Bleachers are available for spectators, along with easy access to parking and nearby facilities. Situated within the school's grounds, the field is a popular venue for school events and community soccer activities.",
+  FieldType:"Artifical Turf",
+  FieldSize:"11vs11",
+  FieldQuality:"Average",
+  hasLights:true,
+  levelLight:"Subdued",
+  hasRestroom:true,
+  hasParking:true,
+  FieldMap:"https://maps.apple.com/?address=3301%20Peace%20Valley%20Ln,%20Falls%20Church,%20VA%20%2022044,%20United%20States&auid=15742062496136695139&ll=38.856482,-77.149376&lsp=9902&q=Justice%20High%20School&t=m",
+  FieldWebsite:"https://justicehssports.com/teams/3605580/soccer/junior%20varsity/schedule",
+FieldImage:"https://raw.githubusercontent.com/tdinh25/project2nd315/blob/main/thomasJefferson.jpg"
 },
 {
-  FieldName:
-  FieldAddress:
-  FieldDescription:
-  FieldType:
-  FieldSize:
-  FieldQuality:
-  hasLights:
+  FieldName:"Falls Church HS",
+  FieldAddress:"7521 Jaguar Trail, Falls Church, VA 22042",
+  FieldDescription:"Falls Church High School Soccer Field in Falls Church, Virginia, is a quality field designed for student athletes and community soccer games. The field boasts a synthetic turf surface with clear, professional-grade markings that enhance gameplay. Spectator bleachers and convenient access to parking and restroom facilities make it a welcoming spot for school and community events. Set on the high school campus, this field is a key gathering place for soccer enthusiasts and local tournaments.",
+  FieldType:"Natural",
+  FieldSize: "8v8",
+  FieldQuality:"Average",
+  hasLights:true,
   levelLight:
   hasRestroom:
   hasParking:
