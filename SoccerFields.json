@@ -1,6 +1,7 @@
 {
   "SoccerFields": [
     {
+      "FieldID": 1,
       "FieldName": "Thomas Jefferson HS",
       "FieldAddress": "6560 Braddock Rd, Alexandria, VA 22312",
       "FieldDescription": "The Thomas Jefferson High School Soccer Field in Alexandria, Virginia, is a spacious, well-kept field primarily used by students and local teams. With synthetic turf and bright field markings, it provides an excellent playing surface for competitive matches. The field is complemented by bleacher seating for spectators, as well as nearby parking and restroom facilities. Located on the high school’s campus, it serves as a hub for athletic events and community soccer games alike.",
@@ -16,6 +17,7 @@
       "FieldImage": "https://raw.githubusercontent.com/tdinh25/project2nd315/main/thomasJefferson.jpg"
     },
     {
+      "FieldID": 2,
       "FieldName": "Justice HS",
       "FieldAddress": "3301 Peace Valley Ln, Falls Church, VA 22044",
       "FieldDescription": "Justice High School Soccer Field in Falls Church, Virginia, is a versatile, well-maintained field utilized by students and local sports leagues. It features a durable synthetic turf surface with vibrant markings, suitable for both practices and competitive games. Bleachers are available for spectators, along with easy access to parking and nearby facilities. Situated within the school's grounds, the field is a popular venue for school events and community soccer activities.",
@@ -31,6 +33,7 @@
       "FieldImage": "https://raw.githubusercontent.com/tdinh25/project2nd315/main/justice.jpg"
     },
     {
+      "FieldID": 3,
       "FieldName": "Falls Church HS",
       "FieldAddress": "7521 Jaguar Trail, Falls Church, VA 22042",
       "FieldDescription": "Falls Church High School Soccer Field in Falls Church, Virginia, is a quality field designed for student athletes and community soccer games. The field boasts a synthetic turf surface with clear, professional-grade markings that enhance gameplay. Spectator bleachers and convenient access to parking and restroom facilities make it a welcoming spot for school and community events. Set on the high school campus, this field is a key gathering place for soccer enthusiasts and local tournaments.",
@@ -46,6 +49,7 @@
       "FieldImage": "https://raw.githubusercontent.com/tdinh25/project2nd315/main/fallschurch.jpg"
     },
     {
+      "FieldID": 4,
       "FieldName": "Annandale HS",
       "FieldAddress": "4700 Medford Dr, Annandale, VA 22003",
       "FieldDescription": "Annandale High School Soccer Field in Annandale, Virginia, is a well-maintained field that supports student and community soccer events. Its synthetic turf surface and precise field markings provide an ideal setting for both practice sessions and competitive matches. The field offers bleacher seating for spectators, with nearby parking and restrooms for added convenience. Located on the high school campus, it serves as a lively spot for school sports and community gatherings.",
@@ -61,6 +65,7 @@
       "FieldImage": "https://raw.githubusercontent.com/tdinh25/project2nd315/main/annandale.jpg"
     },
     {
+      "FieldID": 5,
       "FieldName": "Patriot Park",
       "FieldAddress": "12111 Braddock Rd, Fairfax, VA 22030",
       "FieldDescription": "Patriot Park Soccer Field in Fairfax, Virginia, is a top-quality facility with multiple fields that cater to players of all skill levels. The fields feature synthetic turf and clear, professional markings, ideal for competitive matches and recreational games alike. Amenities include ample parking, shaded seating areas for spectators, and nearby restroom facilities, making it convenient for families and teams. Nestled within the larger Patriot Park complex, these fields are popular for league play, tournaments, and community events.",
@@ -76,6 +81,7 @@
       "FieldImage": "https://raw.githubusercontent.com/tdinh25/project2nd315/main/patriotPark.jpg"
     },
     {
+      "FieldID": 6,
       "FieldName": "Mason District Park",
       "FieldAddress": "6621 Columbia Pike, Annandale, VA 22003",
       "FieldDescription": "Mason District Park Soccer Field in Annandale, Virginia, is a well-maintained, multipurpose field surrounded by scenic trees. It features a large, flat playing surface with clear markings, ideal for both casual games and organized matches. Nearby facilities include benches, ample parking, restrooms, and shaded areas for spectators. The park's peaceful environment and convenient location make it a popular spot for soccer players of all ages",
